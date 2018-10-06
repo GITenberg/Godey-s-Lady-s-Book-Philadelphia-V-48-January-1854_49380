@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Godey''s Lady''s Book
 
   Philadelphia V 48, January, 1854'
